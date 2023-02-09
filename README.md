@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on [PharmEasy.com](https://github.com/chiragjain56/PharmEasy)
 
-- 👨‍💻 All of my projects are available at [https://chiragjain.vercel.app/](https://chiragjain.vercel.app/)
-
 - 💬 Ask me about **SpringBoot, Hibernate, MySql, Java, AWS**
 
 - 📫 How to reach me **chiragjain5june@gmail.com**
